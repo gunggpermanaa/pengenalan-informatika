@@ -3,12 +3,13 @@
 - https://agunggpermanaofficial.wordpress.com/2023/12/19/computational-thinking/
 ## Jenis jenis Mesin Komputasi ⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/26/jenis-jenis-mesin-komputasi/
-## Mengktifkan dan Mencoba Google Colab ⭐⭐⭐⭐⭐
+## Mengktifkan dan Mencoba Google Colab⭐⭐⭐⭐⭐
 - Google Collaboratory atau Google Colab adalah platform berbasis cloud untuk menulis, menjalankan, dan berbagi kode Python melalui web browser
-Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang bekerja di bidang data science dan machine learning dengan menyediakan environment komputasi yang fleksibel dan mudah diakses tanpa biaya.  https://youtu.be/xkE1ReBqx1A?si=DjOMrg4hkSMoIXl5
+Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang bekerja di bidang data science dan machine learning dengan menyediakan environment komputasi yang fleksibel dan mudah diakses tanpa biaya. https://youtu.be/aqpBm3soRpg
 ## Mencoba Console Sistem Operasi⭐⭐⭐⭐
--  disini saya akan menggunakan cmd atau bisa disebut juga dengan Command Prompt,cmd adalah salah satu aplikasi command line interpreter yang ada di sistem operasi windows perintah cmd berfungsi untuk memberikan berbagai perintah kepada komputer tanpa perlu menavigasi program berbasis GUI seperti file Explorer,Control panel,dan sebagainya https://youtu.be/CjCCWmE7WGU?si=wE__illwQcdtyoja
+-  disini saya akan menggunakan cmd atau bisa disebut juga dengan Command Prompt,cmd adalah salah satu aplikasi command line interpreter yang ada di sistem operasi windows perintah cmd berfungsi untuk memberikan berbagai perintah kepada komputer tanpa perlu menavigasi program berbasis GUI seperti file Explorer,Control panel,dan sebagainya https://youtu.be/bWYl4hg5HVQ
 ## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+- 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
@@ -159,6 +160,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://www.linkedin.com/in/agung-permana-06b111292/
 
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
