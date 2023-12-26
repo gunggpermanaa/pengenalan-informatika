@@ -168,10 +168,6 @@ https://www.linkedin.com/in/agung-permana-06b111292/
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
-
-
-
-
+https://agunggpermanaofficial.wordpress.com/2023/12/27/laravel-development/
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
