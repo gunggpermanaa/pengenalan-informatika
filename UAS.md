@@ -162,12 +162,10 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 https://www.linkedin.com/in/agung-permana-06b111292/
-
-
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/27/laravel-development/
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
+https://agunggpermanaofficial.wordpress.com/2023/12/27/review-buku-social-media-dan-social-network/
