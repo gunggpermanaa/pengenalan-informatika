@@ -168,8 +168,7 @@ https://www.linkedin.com/in/agung-permana-06b111292/
 
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-- disini saya mengikuti workshop yaitu tentang laravel development dengan judul membuat website event management sederhana menggunakan laravel,Laravel adalah sebuah framework aplikasi web berbasis PHP yang open-source dan didesain untuk mempermudah pembuatan aplikasi web dengan menggunakan pola pengembangan MVC (Model-View-Controller).disini kita semua Membuat website CRUD sederhana tentang Event Management yang menggunakan Frontend dan Backend dari laravel. Pada Frontend (FE) akan menggunakan blade dan bootstrap css serta pada Backend akan menggunakan database dari xampp yaitu mysql. dan disini juga saya mendapatkan sertifikat karena telah mengikuti event tersebut ![WhatsApp Image 2023-12-26 at 23 18 02_99889834](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/0dca52ee-284a-4740-87d5-fd26a68428c7)
-![WhatsApp Image 2023-12-26 at 23 17 53_de55051e](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ce58ad35-6d7b-42c6-8102-88a57ef7f4e0) <img width="561" alt="Screenshot 2023-12-26 232314" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/2b9c2690-0db1-4829-bb7c-f6bcc5935aff">
+
 
 
 
