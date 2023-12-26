@@ -139,6 +139,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+- https://agunggpermanaofficial.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
 
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
