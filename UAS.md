@@ -169,6 +169,10 @@ https://agunggpermanaofficial.wordpress.com/2023/12/27/top-github-project-yang-d
 sebelumnya apaa itu Linkedin? Linkedin adalah jaringan profesional online terbesar di dunia. Anda bisa menggunakan LinkedIn untuk menemukan lowongan dan kesempatan magang, terhubung dan memperkuat hubungan profesional, dan mempelajari keahlian yang dibutuhkan demi kesuksesan karier.
 https://www.linkedin.com/in/agung-permana-06b111292/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+disini saya mencobanya dengan membuka sebuah website dengan nama github readme generator
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+<img width="960" alt="Screenshot 2023-12-27 201128" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ca3becfd-6718-4b34-8370-159baffaf92c">
+
 https://github.com/gunggpermanaa/my-profil
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/27/laravel-development/
