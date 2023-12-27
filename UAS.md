@@ -137,23 +137,20 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
-
-
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
-
-
+![WhatsApp Image 2023-12-27 at 21 51 25_e7a3f297](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/239bb32c-973b-4381-b5b2-5a89f73ba44f) ![WhatsApp Image 2023-12-27 at 21 51 25_ff058358](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/57101568-c995-4f27-ba62-a3cf4f773c1d)
+![WhatsApp Image 2023-12-27 at 21 51 24_5fe9f38f](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/51a47307-62c8-4ea2-b3f1-19b33ca6d0ce)
+![WhatsApp Image 2023-12-27 at 21 51 24_f2a22f4e](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/88d3e152-0f1e-4ed4-89b3-468b623be21b)
+![WhatsApp Image 2023-12-27 at 21 51 25_dd3a7ca5](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/288ef161-8e26-4849-9eaf-02b9c5c0ca41)
+https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-berbicara-bahasa-inggris/
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
-
+https://agunggpermanaofficial.wordpress.com/2023/12/27/lowongan-pekerjaan-it/
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
-
-
+https://agunggpermanaofficial.wordpress.com/2023/12/27/lowongan-freelancer-it/
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 saya disini memiliki topik Roadmap.sh yang diminati dan saya akan mempejarinya sampai bisaa Roadmap tersebut adalah Frontend Develover,Backend Develover,dan Fullstak Develover.karena disini saya ingin menggeluti di bidang web develover
 - https://roadmap.sh/frontend
