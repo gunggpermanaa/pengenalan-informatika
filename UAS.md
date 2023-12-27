@@ -161,6 +161,7 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+sebelumnya apaa itu Linkedin? Linkedin adalah jaringan profesional online terbesar di dunia. Anda bisa menggunakan LinkedIn untuk menemukan lowongan dan kesempatan magang, terhubung dan memperkuat hubungan profesional, dan mempelajari keahlian yang dibutuhkan demi kesuksesan karier.
 https://www.linkedin.com/in/agung-permana-06b111292/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
