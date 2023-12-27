@@ -140,12 +140,10 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
+![WhatsApp Image 2023-12-27 at 22 34 39_d5c57f0c](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/6b235318-8f04-411a-b973-fba930121275)
+https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-bahasa-inggris/
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
-![WhatsApp Image 2023-12-27 at 21 51 25_e7a3f297](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/239bb32c-973b-4381-b5b2-5a89f73ba44f) ![WhatsApp Image 2023-12-27 at 21 51 25_ff058358](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/57101568-c995-4f27-ba62-a3cf4f773c1d)
-![WhatsApp Image 2023-12-27 at 21 51 24_5fe9f38f](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/51a47307-62c8-4ea2-b3f1-19b33ca6d0ce)
-![WhatsApp Image 2023-12-27 at 21 51 24_f2a22f4e](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/88d3e152-0f1e-4ed4-89b3-468b623be21b)
-![WhatsApp Image 2023-12-27 at 21 51 25_dd3a7ca5](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/288ef161-8e26-4849-9eaf-02b9c5c0ca41)
+![WhatsApp Image 2023-12-27 at 22 34 39_d6ea905c](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/c0ca8179-c44e-45fb-bed3-2e14c7da3187)
 https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-berbicara-bahasa-inggris/
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/27/lowongan-pekerjaan-it/
@@ -169,7 +167,6 @@ https://www.linkedin.com/in/agung-permana-06b111292/
 disini saya mencobanya dengan membuka sebuah website dengan nama github readme generator
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 <img width="960" alt="Screenshot 2023-12-27 201128" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ca3becfd-6718-4b34-8370-159baffaf92c">
-
 https://github.com/gunggpermanaa/my-profil
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/27/laravel-development/
