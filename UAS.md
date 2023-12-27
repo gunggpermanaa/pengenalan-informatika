@@ -9,7 +9,8 @@ Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang beke
 ## Mencoba Console Sistem Operasi⭐⭐⭐⭐
 -  disini saya akan menggunakan cmd atau bisa disebut juga dengan Command Prompt,cmd adalah salah satu aplikasi command line interpreter yang ada di sistem operasi windows perintah cmd berfungsi untuk memberikan berbagai perintah kepada komputer tanpa perlu menavigasi program berbasis GUI seperti file Explorer,Control panel,dan sebagainya https://youtu.be/bWYl4hg5HVQ
 ## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-- 
+-  Terminal di Linux adalah sebuah consule untuk memberikan perintah text kepada Operasi Sistem.
+  
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
