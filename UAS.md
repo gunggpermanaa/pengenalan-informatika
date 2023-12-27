@@ -155,17 +155,21 @@ Referensi cloud service: Amazon Web Service Microsoft Azure Google Cloud Platfor
 
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-
-
+saya disini memiliki topik Roadmap.sh yang diminati dan saya akan mempejarinya sampai bisaa Roadmap tersebut adalah Frontend Develover,Backend Develover,dan Fullstak Develover.karena disini saya ingin menggeluti di bidang web develover
+- https://roadmap.sh/frontend
+  <img width="960" alt="Screenshot 2023-12-27 175740" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/f65907fe-9bd5-450b-8244-48e9fdf30af3">
+- https://roadmap.sh/backend
+  <img width="960" alt="Screenshot 2023-12-27 175759" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/97fd45c6-1dc7-4856-8093-10d5504dfdea">
+- https://roadmap.sh/full-stack
+  <img width="960" alt="Screenshot 2023-12-27 180333" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/e0b0fac3-cd40-44b2-a396-2c25f90713cc">
+- https://agunggpermanaofficial.wordpress.com/2023/12/27/web-develover/
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
-
-
+https://agunggpermanaofficial.wordpress.com/2023/12/27/top-github-project-yang-diminati/
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 sebelumnya apaa itu Linkedin? Linkedin adalah jaringan profesional online terbesar di dunia. Anda bisa menggunakan LinkedIn untuk menemukan lowongan dan kesempatan magang, terhubung dan memperkuat hubungan profesional, dan mempelajari keahlian yang dibutuhkan demi kesuksesan karier.
 https://www.linkedin.com/in/agung-permana-06b111292/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
-
+https://github.com/gunggpermanaa/my-profil
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/27/laravel-development/
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
