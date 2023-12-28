@@ -56,7 +56,7 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/protokol-komunikasi-iot-m
 <img width="960" alt="Screenshot 2023-12-28 101011" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ee569efe-e152-4043-b93e-7a7f9404b575">
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-disini saya telah menonton Video Presentasi Tugas Akhir.di dalam video tersebut dibawakan oleh seorang mahasiswi yang bernama Tita Rahmasari dengan topik atau dulu adalah  Perancangan Sistem Informasi Pengelolaan Kas Masjid Berbasis Web Dengan Algoritma Naive Bayes dan Metode Extreme Programming (Xp) Di Masjid Baitul Mukhlishin Kabupaten Bekasi.
+disini saya telah menonton Video Presentasi Tugas Akhir.di dalam video tersebut dibawakan oleh seorang mahasiswi yang bernama Tita Rahmasari dari UNIVERSITAS BHAYANGKARA JAKARTA RAYA dengan topik atau judulnya adalah Perancangan Sistem Informasi Pengelolaan Kas Masjid Berbasis Web Dengan Algoritma Naive Bayes dan Metode Extreme Programming (Xp) Di Masjid Baitul Mukhlishin Kabupaten Bekasi.
 - https://youtu.be/yvJ1QF6foX8?si=rc_ssLp0w0bAJonv
 - <img width="960" alt="Screenshot 2023-12-28 105613" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/6a3f5b80-64b7-4f6b-9e4f-094ec23e8140">
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
