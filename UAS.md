@@ -20,13 +20,19 @@ referensi : https://youtu.be/1jHvXakt1qw?si=7nXCH84ZKig7C7UT
 Algoritma bubble sort adalah algoritma pengurutan data yang sederhana dan mudah dipahami. Cara kerjanya adalah dengan membandingkan dua elemen array secara berurutan, mulai dari elemen pertama sampai elemen terakhir. Jika elemen pertama lebih besar dari elemen kedua, maka kedua elemen tersebut ditukar posisinya. Proses ini terus dilakukan sampai seluruh elemen array terurut.
 <img width="960" alt="Screenshot 2023-12-28 175121" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/2bfd8d77-e5b2-4227-a725-961d04011a4c">
 Output dari program di atas adalah sebagai berikut:
-Array sebelum diurutkan:
+-  Array sebelum diurutkan:
 10 5 2 7 1 8
-Array setelah diurutkan:
+-  Array setelah diurutkan:
 1 2 5 7 8 10
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+disini saya coba mendemonstrasikan nya dengan aplikasi visual studio code (vscode).visual studio code adalah perangkat lunak penyunting kode-sumber buatan Microsoft untuk Linux, macOS, dan Windows. Visual Studio Code menyediakan fitur seperti penyorotan sintaksis, penyelesaian kode, kutipan kode, merefaktor kode, pengawakutuan, dan Git
+- https://youtu.be/01HtyB99dpI
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+HackerRank adalah perusahaan teknologi yang berfokus pada tantangan pemrograman kompetitif untuk konsumen dan bisnis. Pengembang bersaing dengan menulis program sesuai dengan spesifikasi yang diberikan.
+-  https://youtu.be/H1mXcr8R9Z4
+-  https://www.hackerrank.com/profile/agunggpermanaof1
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 https://youtu.be/hOXHoX6uLg0
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
@@ -52,7 +58,11 @@ https://youtu.be/hOXHoX6uLg0
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+-  https://agunggpermanaofficial.wordpress.com/2023/12/28/hungging-face/
+-  https://huggingface.co/gunggpermna
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐ ⭐⭐
+-  https://www.kaggle.com/agungpermanaa
+-  https://youtu.be/I5Z5Hg9U3KA
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 nahh disini ada contoh gambar untuk mencoba protokol komunikasi IoT MQTT
 <img width="960" alt="Screenshot 2023-12-28 094020" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/cc6b8e16-1019-4a5c-85b4-931bf4306d5b">
