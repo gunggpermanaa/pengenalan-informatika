@@ -11,6 +11,8 @@ Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang beke
 ## Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
   https://youtu.be/8Tfb6y0cs34?si=5LLR74Fadbel19Ge
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+sebelumnya saya disini untuk membuatnya menggunakan draw.io,drow.io adalah  sebuah website dengan konsep desain khusus yang dapat membuat Anda bisa menggambar diagram via online. dalam pembuatan algoritma tersebut saya akan membuat flowchart mengirim surat.
+-  <img width="960" alt="Screenshot 2023-12-28 154201" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/e40a8e73-3757-4574-8d10-97f2164a581a">
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
