@@ -45,16 +45,19 @@ Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang beke
 nahh disini ada contoh gambar untuk mencoba protokol komunikasi IoT MQTT
 <img width="960" alt="Screenshot 2023-12-28 094020" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/cc6b8e16-1019-4a5c-85b4-931bf4306d5b">
 https://agunggpermanaofficial.wordpress.com/2023/12/28/protokol-komunikasi-iot-mqtt/   
-
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/28/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 -  https://agunggpermanaofficial.wordpress.com/2023/12/28/sciencedirect/
 <img width="960" alt="Screenshot 2023-12-28 101011" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ee569efe-e152-4043-b93e-7a7f9404b575">
-
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+disini saya telah menonton Video Presentasi Tugas Akhir.di dalam video tersebut dibawakan oleh seorang mahasiswi yang bernama Tita Rahmasari dengan topik atau dulu adalah  Perancangan Sistem Informasi Pengelolaan Kas Masjid Berbasis Web Dengan Algoritma Naive Bayes dan Metode Extreme Programming (Xp) Di Masjid Baitul Mukhlishin Kabupaten Bekasi.
+- https://youtu.be/yvJ1QF6foX8?si=rc_ssLp0w0bAJonv
+- <img width="960" alt="Screenshot 2023-12-28 105613" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/6a3f5b80-64b7-4f6b-9e4f-094ec23e8140">
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
