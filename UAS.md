@@ -51,7 +51,7 @@ Beberapa keunggulan Google Colab antara lain kemudahan instalasi dan berbagi Not
 https://youtu.be/n9wmqo4GT50
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
-
+https://agunggpermanaofficial.wordpress.com/2023/12/28/memproses-file-big-data-orc-menggunakan-google-colab/
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/28/menjelaskan-jurnal-conference-artikel-grade-jurnal/
