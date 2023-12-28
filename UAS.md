@@ -14,7 +14,9 @@ Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang beke
 sebelumnya saya disini untuk membuatnya menggunakan draw.io,drow.io adalah  sebuah website dengan konsep desain khusus yang dapat membuat Anda bisa menggambar diagram via online. dalam pembuatan algoritma tersebut saya akan membuat flowchart mengirim surat.
 -  <img width="960" alt="Screenshot 2023-12-28 154201" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/e40a8e73-3757-4574-8d10-97f2164a581a">
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
+Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran yang memungkinkan pemula untuk belajar membuat program tanpa harus memikirkan salah-benar penulisan sintaksis. Layanan ini dikembangkan oleh MIT Media Lab, dan telah diterjemahkan ke lebih dari 60 bahasa, termasuk Bahasa Indonesia.dan disini saya akan membuat game sederhana menggunakan scratch
+- <img width="960" alt="Screenshot 2023-12-28 172206" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/fe5d851d-6b68-42de-85b0-3d135cd961e9">
+referensi : https://youtu.be/1jHvXakt1qw?si=7nXCH84ZKig7C7UT
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
