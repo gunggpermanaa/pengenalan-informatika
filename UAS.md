@@ -1,4 +1,3 @@
-<img width="960" alt="image" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/5e75fa5f-6016-42a4-b4fe-f3def5dc8100">## Hello Informatics !
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/19/computational-thinking/
 ## Jenis jenis Mesin Komputasi ⭐⭐⭐
@@ -21,49 +20,16 @@ referensi : https://youtu.be/1jHvXakt1qw?si=7nXCH84ZKig7C7UT
 Algoritma bubble sort adalah algoritma pengurutan data yang sederhana dan mudah dipahami. Cara kerjanya adalah dengan membandingkan dua elemen array secara berurutan, mulai dari elemen pertama sampai elemen terakhir. Jika elemen pertama lebih besar dari elemen kedua, maka kedua elemen tersebut ditukar posisinya. Proses ini terus dilakukan sampai seluruh elemen array terurut.
 dan disini saya sudah membuatnya bubble sort menggunakan java 
 <img width="960" alt="Screenshot 2023-12-28 175121" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/5064fcae-54c0-4d60-a3f8-7538d7ae1c0a">
--  public class BubbleSort {
-
-    public static void bubbleSort(int[] array) {
-        int n = array.length;
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = 0; j < n - i - 1; j++) {
-                if (array[j] > array[j + 1]) {
-                    int temp = array[j];
-                    array[j] = array[j + 1];
-                    array[j + 1] = temp;
-                }
-            }
-        }
-    }
-
-    public static void main(String[] args) {
-        int[] array = { 10, 5, 2, 7, 1, 8 };
-
-        System.out.println("Array sebelum diurutkan:");
-        for (int i = 0; i < array.length; i++) {
-            System.out.print(array[i] + " ");
-        }
-        System.out.println();
-
-        bubbleSort(array);
-
-        System.out.println("Array setelah diurutkan:");
-        for (int i = 0; i < array.length; i++) {
-            System.out.print(array[i] + " ");
-        }
-    }
-}
--  Fungsi bubbleSort() menerima array sebagai argumen.
-Variabel n menyimpan panjang array.
-Perulangan pertama dilakukan sebanyak n - 1 kali.
-Perulangan kedua dilakukan sebanyak n - i - 1 kali.
-Di dalam perulangan kedua, dua elemen array yang berurutan dibandingkan. Jika elemen pertama lebih besar dari elemen kedua, maka kedua elemen tersebut ditukar posisinya.
-jadi output dari source diatas adalah
-Array sebelum diurutkan:
-10 5 2 7 1 8
-
-Array setelah diurutkan:
-1 2 5 7 8 10
+- Fungsi bubbleSort() menerima array sebagai argumen.
+- Variabel n menyimpan panjang array.
+- Perulangan pertama dilakukan sebanyak n - 1 kali.
+- Perulangan kedua dilakukan sebanyak n - i - 1 kali.
+- Di dalam perulangan kedua, dua elemen array yang berurutan dibandingkan. Jika elemen pertama lebih besar dari elemen kedua, maka kedua elemen tersebut ditukar posisinya.
+- jadi output dari source diatas adalah
+- Array sebelum diurutkan:
+  10 5 2 7 1 8
+- Array setelah diurutkan:
+  1 2 5 7 8 10
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
