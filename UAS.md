@@ -32,7 +32,7 @@ HackerRank adalah perusahaan teknologi yang berfokus pada tantangan pemrograman 
 -  https://youtu.be/H1mXcr8R9Z4
 -  https://www.hackerrank.com/profile/agunggpermanaof1
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
-
+https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuatan-aplikasi-game-pada-platform-mobile-desktop-web-browser/
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 -   basis data atau data base adalah kumpulan data yang terorganisir, yang umumnya disimpan dan diakses secara elektronik dari suatu sistem komputer. Pada saat pangkalan data menjadi semakin kompleks, maka pangkalan data dikembangkan menggunakan teknik perancangan dan pemodelan secara formal.
 -  https://youtu.be/hOXHoX6uLg0
@@ -58,7 +58,9 @@ HackerRank adalah perusahaan teknologi yang berfokus pada tantangan pemrograman 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+-  
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+-  https://agunggpermanaofficial.wordpress.com/2023/12/28/mencoba-data-visualization-dengan-code/
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 -  https://agunggpermanaofficial.wordpress.com/2023/12/28/hungging-face/
 -  https://huggingface.co/gunggpermna
