@@ -48,8 +48,10 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/protokol-komunikasi-iot-m
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 Google Colab adalah layanan cloud, ditawarkan oleh Google (gratis), berdasarkan Jupyter Notebook. Platform ini memungkinkan Anda melatih model Machine Learning langsung di cloud dan semuanya gratis.
 Beberapa keunggulan Google Colab antara lain kemudahan instalasi dan berbagi Notebook antar pengguna secara real time (seperti dokumen lain di G-cloud suite). Namun, memuat file csv memerlukan penulisan kode. Saya akan menunjukkan dua cara memuat file csv ke Colab sebagai Pandas DataFrame.
-https://youtu.be/OVnRWhbIBvw
+https://youtu.be/n9wmqo4GT50
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/28/menjelaskan-jurnal-conference-artikel-grade-jurnal/
