@@ -42,6 +42,7 @@ Platform ini dirancang bagi analyst, developer, peneliti, dan pendidik yang beke
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐ ⭐⭐
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+nahh disini ada contoh gambar untuk mencoba protokol komunikasi IoT MQTT
 <img width="960" alt="Screenshot 2023-12-28 094020" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/cc6b8e16-1019-4a5c-85b4-931bf4306d5b">
 https://agunggpermanaofficial.wordpress.com/2023/12/28/protokol-komunikasi-iot-mqtt/   
 
