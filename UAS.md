@@ -18,6 +18,12 @@ Scratch adalah sebuah bahasa pemrograman visual untuk lingkungan pembelajaran ya
 referensi : https://youtu.be/1jHvXakt1qw?si=7nXCH84ZKig7C7UT
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 Algoritma bubble sort adalah algoritma pengurutan data yang sederhana dan mudah dipahami. Cara kerjanya adalah dengan membandingkan dua elemen array secara berurutan, mulai dari elemen pertama sampai elemen terakhir. Jika elemen pertama lebih besar dari elemen kedua, maka kedua elemen tersebut ditukar posisinya. Proses ini terus dilakukan sampai seluruh elemen array terurut.
+<img width="960" alt="Screenshot 2023-12-28 175121" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/2bfd8d77-e5b2-4227-a725-961d04011a4c">
+Output dari program di atas adalah sebagai berikut:
+Array sebelum diurutkan:
+10 5 2 7 1 8
+Array setelah diurutkan:
+1 2 5 7 8 10
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
