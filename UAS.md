@@ -49,6 +49,9 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/protokol-komunikasi-iot-m
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/28/sciencedirect/
+<img width="960" alt="Screenshot 2023-12-28 101011" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ee569efe-e152-4043-b93e-7a7f9404b575">
+
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 - https://agunggpermanaofficial.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
