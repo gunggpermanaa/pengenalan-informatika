@@ -48,8 +48,9 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/protokol-komunikasi-iot-m
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+- https://agunggpermanaofficial.wordpress.com/2023/12/28/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-https://agunggpermanaofficial.wordpress.com/2023/12/28/sciencedirect/
+-  https://agunggpermanaofficial.wordpress.com/2023/12/28/sciencedirect/
 <img width="960" alt="Screenshot 2023-12-28 101011" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/ee569efe-e152-4043-b93e-7a7f9404b575">
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
@@ -57,7 +58,7 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/sciencedirect/
 - https://agunggpermanaofficial.wordpress.com/2023/12/26/profesi-terkait-informatika-dan-profesi-yang-diminati/
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 ![WhatsApp Image 2023-12-27 at 22 34 39_d5c57f0c](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/6b235318-8f04-411a-b973-fba930121275)
-https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-bahasa-inggris/
+-  https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-bahasa-inggris/
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 ![WhatsApp Image 2023-12-27 at 22 34 39_d6ea905c](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/c0ca8179-c44e-45fb-bed3-2e14c7da3187)
 https://agunggpermanaofficial.wordpress.com/2023/12/27/tools-untuk-belajar-berbicara-bahasa-inggris/
