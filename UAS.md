@@ -49,13 +49,17 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuat
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo/
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
-
+https://drive.google.com/drive/folders/11QcbjGDQo8TIX_eAlz16_rYmPxSGqHDz?usp=drive_link
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
