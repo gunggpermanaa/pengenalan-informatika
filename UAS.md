@@ -45,11 +45,16 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuat
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+disini saya menggunakan untuk meng hosting yaitu dengan 000WebHost
+https://agungsport.000webhostapp.com/
+<img width="960" alt="Screenshot 2023-12-29 165833" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/303f7ba3-fbde-482f-9c25-a4db6b9a40a7">
+<img width="960" alt="Screenshot 2023-12-29 165814" src="https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/0798a710-dc8f-4f5f-909a-4ca0b62eaf45">
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+https://agungsport.000webhostapp.com/
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-http-request-dan-web-api-dengan-hoppscotch-postman/
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
