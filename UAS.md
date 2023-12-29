@@ -55,7 +55,10 @@ https://agungsport.000webhostapp.com/
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-http-request-dan-web-api-dengan-hoppscotch-postman/
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/penggunaan-developer-tools-pada-web-browser-firefox-chrome/
+https://youtu.be/p724t6gqEHU
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
