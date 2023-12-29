@@ -57,6 +57,7 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuat
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/28/memproses-file-big-data-orc-menggunakan-google-colab/
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 -  https://agunggpermanaofficial.wordpress.com/2023/12/28/mencoba-data-visualization-dengan-tools/
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
