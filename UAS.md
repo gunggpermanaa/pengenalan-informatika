@@ -38,15 +38,18 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuat
 -  https://youtu.be/hOXHoX6uLg0
 -  selain database tersebut ada beberapa database yang lain,yaitu seperti MySQL, XAMPP, Oracle Database, Microsoft SQL Server, dan SQLite.
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+https://youtu.be/RNd_LjixmJk
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/30/penggunaan-web-browser-untuk-mengakses-halaman-website-html/
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/30/uniform-resource-locator-url/
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 disini saya mencobanya memakai whois 
 https://youtu.be/qNpBtOQ5FDU
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 https://youtu.be/fYEjaZ-RXAE
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
+https://agunggpermanaofficial.wordpress.com/2023/12/30/penerapan-teknik-search-engine-optimization-seo-pada-html/
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-file-json/
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
