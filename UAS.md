@@ -53,9 +53,13 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuat
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo/
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/28/memproses-file-big-data-orc-menggunakan-google-colab/
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
