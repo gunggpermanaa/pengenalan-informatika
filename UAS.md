@@ -44,6 +44,7 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuat
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-file-json/
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 disini saya menggunakan untuk meng hosting yaitu dengan 000WebHost
 https://agungsport.000webhostapp.com/
