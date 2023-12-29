@@ -41,8 +41,12 @@ https://agunggpermanaofficial.wordpress.com/2023/12/28/mendemonstrasikan-pembuat
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+disini saya mencobanya memakai whois 
+https://youtu.be/qNpBtOQ5FDU
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+https://youtu.be/fYEjaZ-RXAE
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-file-json/
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
@@ -62,9 +66,10 @@ https://agunggpermanaofficial.wordpress.com/2023/12/29/layanan-cloud-service-yan
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 https://agunggpermanaofficial.wordpress.com/
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
-
+![LIMITED TIME ONLY](https://github.com/gunggpermanaa/uas-pengenalan-informatika/assets/144643400/334ffc89-de7b-4ecb-98ab-ede1c4d5fac9)
+https://youtu.be/-CqU90cnif4
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
-
+https://youtu.be/-CqU90cnif4
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 https://agunggpermanaofficial.wordpress.com/2023/12/29/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo/
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
