@@ -23,8 +23,7 @@ User experience theme :
    - sederhana
    - elegan
    - warna : dominan putih dan hijau
-   - inspirasi design :
-     <img width="431" alt="Screenshot 2023-11-15 092058" src="https://github.com/gunggpermanaa/uts-pengenalan-informatika/assets/144643400/999ea83e-7e73-4c0a-80dc-6cdad18c1840">
+  
 
 
      
